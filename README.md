@@ -1,5 +1,5 @@
-### sendData() for STM32U073Cx 25.02.2025
-_by Dominika Kubicz_
+### sendData() for STM32U073Cx 
+_by Dominika Kubicz (25.02.2025)_
 
 This solution consists of 3 supporting functions:
 1. Configuring the PA9 pin for USART1_TX
